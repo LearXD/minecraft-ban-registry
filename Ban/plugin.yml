@@ -1,0 +1,10 @@
+name: BanimentosMySQL
+version: 1
+api: 4.5.1
+main: ban\Main
+author: Will
+
+permissions:
+  notban:
+    default: op
+    description: "Avoid getting banned"
